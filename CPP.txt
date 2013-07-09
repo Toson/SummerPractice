@@ -1,8 +1,6 @@
 void avoid()
 {
-	nigga=zigga;
+	anticpate=true;
+	suck_my_balls=false;
+	return ANAL_FUCK;
 }
-
-void devoid(int p)
-{liggazoid=NULL}
-Wish i were here
