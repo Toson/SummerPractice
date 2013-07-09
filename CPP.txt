@@ -2,3 +2,6 @@ void avoid()
 {
 	nigga=zigga;
 }
+
+void devoid(int p)
+{liggazoid=NULL}
