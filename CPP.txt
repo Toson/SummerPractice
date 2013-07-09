@@ -5,3 +5,4 @@ void avoid()
 
 void devoid(int p)
 {liggazoid=NULL}
+Wish i were here
